@@ -23,7 +23,7 @@ Indentify cities that align with your personal beliefs and priorities while putt
 - Jake Stevens - Application concept and fullstack developer.
 - Tue Quach - Frontend design
 - Jackson Henry - Algorithm design
-- Glenn Streiff - MVC design, Model & Controller implementation, Integration
+- Glenn Streiff - MVC design, Model & Controller implementation, Integration, Readme
 
 # MVP
 
