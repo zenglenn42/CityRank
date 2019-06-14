@@ -1,4 +1,4 @@
-# CityRank
+City Rank ([demo](https://zenglenn42.github.io/CityRank/))
 
 Rank livable cities based upon user preferences along 3 dimensions.
 
