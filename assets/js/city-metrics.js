@@ -199,7 +199,7 @@ let cityMetrics = [
 	{"Birmingham, AL": { "county": "Jefferson County", "happiness": 40.78, "wellbeing": 173, "income_and_employment": 167, "community_and_environment": 163 }},
 	{"Charleston, WV": { "county": "Kanawha County", "happiness": 39.68, "wellbeing": 180, "income_and_employment": 65, "community_and_environment": 93 }},
 	{"Toledo, OH": { "county": "Lucas County", "happiness": 39.48, "wellbeing": 177, "income_and_employment": 171, "community_and_environment": 148 }},
-	{"Detroit, MI": { "county": "Monroe County", "happiness": 29.19, "wellbeing": 181, "income_and_employment": 181, "community_and_environment": 181 }}
+	{"Detroit, MI": { "county": "Wayne County", "happiness": 29.19, "wellbeing": 181, "income_and_employment": 181, "community_and_environment": 181 }}
 ];
 
 let stateToST = {
